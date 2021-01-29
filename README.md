@@ -1,7 +1,7 @@
 <center><h2>Desc: </h2></center>
 This app allows users to Register&Login an account and all user data is stored in a mysql database.
 <center><h2>Using :  </h2></center>
-Html  <br/>
+ejs  <br/>
 Css  <br/>
 Js  <br/>
 Jquery <br/>
